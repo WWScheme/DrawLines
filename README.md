@@ -1,2 +1,2 @@
 # DrawLines
-An Explore of the direct3d9.
+A simple direct3d9 application, without any unnecessary codes.
