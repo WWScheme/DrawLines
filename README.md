@@ -1,2 +1,2 @@
 # DrawLines
-A simple direct3d9 application, without any unnecessary codes.
+一个简单的DX9程序，尽可能的避免了任何多余的功能，只保留了可以勉强支持程序运行的部分。
